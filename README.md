@@ -24,10 +24,29 @@ The project aims to predict the future stock prices of Apple Inc. based on histo
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - TensorFlow
 - Keras
 - NumPy
 - pandas
 - Matplotlib
 
+## Usage
+
+1. Clone the repository:
+
+```
+git clone https://github.com/your_username/stock-price-prediction.git
+```
+
+2. Install the required dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+3. Run the Jupyter Notebook `stock_price_prediction.ipynb` to execute the code and generate predictions.
+
+## Results
+
+The trained LSTM model demonstrates promising results in predicting future stock prices of Apple Inc. However, further fine-tuning and optimization may be required to improve the model's accuracy.
