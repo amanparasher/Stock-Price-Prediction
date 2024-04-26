@@ -18,7 +18,7 @@ The project aims to predict the future stock prices of Apple Inc. based on histo
 
 ## File Descriptions
 
-- **stock_price_prediction.ipynb**: Jupyter Notebook containing the Python code for data retrieval, preprocessing, model building, evaluation, and prediction.
+- **apple.ipynb**: Jupyter Notebook containing the Python code for data retrieval, preprocessing, model building, evaluation, and prediction.
 - **train.csv**: CSV file containing the training dataset, which includes historical stock prices of Apple Inc.
 - **test.csv**: CSV file containing the testing dataset, which includes future stock prices of Apple Inc.
 
