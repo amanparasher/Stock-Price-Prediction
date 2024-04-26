@@ -1,7 +1,3 @@
-Sure, here's a README file template for your stock price prediction project:
-
----
-
 # Stock Price Prediction using LSTM
 
 This project utilizes Long Short-Term Memory (LSTM) networks to predict the stock prices of Apple Inc. The dataset used in this project is retrieved from the Yahoo Finance library.
