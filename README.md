@@ -36,7 +36,7 @@ The project aims to predict the future stock prices of Apple Inc. based on histo
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/stock-price-prediction.git
+git clone https://github.com/amanparasher/stock-price-prediction.git
 ```
 
 2. Install the required dependencies:
